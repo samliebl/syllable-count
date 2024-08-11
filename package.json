@@ -5,12 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node test.js"
+    "test": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "syllable": "^5.0.1"
+  },
+  "repository": {
+    "url": "https://github.com/samliebl/syllable-counter.git"
   }
 }
