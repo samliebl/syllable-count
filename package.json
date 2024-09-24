@@ -1,15 +1,15 @@
 {
   "name": "syllable-count",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
+  "description": "Count syllables with npm module syllable.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node index.js"
+    "test": "node test.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sam Liebl",
+  "license": "MIT",
   "dependencies": {
     "syllable": "^5.0.1"
   },

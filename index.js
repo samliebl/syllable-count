@@ -20,7 +20,6 @@ const countSyllablesInArray = (sentences) => {
     }));
 };
 
-
 // Export the functions to use them in other modules
 export {
     customSyllableCount as countSyllables,
